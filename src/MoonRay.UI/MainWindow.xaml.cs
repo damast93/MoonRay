@@ -34,8 +34,8 @@ namespace MoonRay.UI
 
         private void Render(Scene.Scene scene)
         {
-            int width = 1260;
-            int height = 800;
+            int width = 600;
+            int height = 450;
 
             Color[,] pixels = new Color[width, height];
             
